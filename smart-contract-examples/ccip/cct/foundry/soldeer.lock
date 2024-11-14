@@ -1,0 +1,6 @@
+[[dependencies]]
+name = "@openzeppelin-v4"
+version = "4.8.2"
+url = "https://github.com/OpenZeppelin/openzeppelin-contracts/archive/refs/tags/v4.8.2.zip"
+checksum = "f89ffc1d89e0f5c36db6979dea43f76c2f695c69ff06ff8de0703b4d4b4593e7"
+integrity = "ce808a0923837df2ced364d0d437cc1273be9ae7f05dcd2ea65b55f8687739fe"

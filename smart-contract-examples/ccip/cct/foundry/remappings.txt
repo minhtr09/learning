@@ -1,0 +1,2 @@
+@openzeppelin-v4-4.8.2/=dependencies/@openzeppelin-v4-4.8.2/
+@openzeppelin/contracts=dependencies/@openzeppelin-v4-4.8.2/contracts

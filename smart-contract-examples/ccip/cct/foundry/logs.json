@@ -1,0 +1,36 @@
+{
+  "events": [
+    {
+      "recipient": "0xff43f5ef28ecb7c1f219751fc793deb40ef07a53",
+      "amount": "1818604301207965609",
+      "blockNumber": 36308641,
+      "transactionHash": "0x3a705fb7fe91c98969a837989b09d6e7e768a5b5b91a8c3322e3510e7fbe1864"
+    },
+    {
+      "recipient": "0x22cefc91e9b7c0f3890ebf9527ea89053490694e",
+      "amount": "779401843374842404",
+      "blockNumber": 36308641,
+      "transactionHash": "0x3a705fb7fe91c98969a837989b09d6e7e768a5b5b91a8c3322e3510e7fbe1864"
+    },
+    {
+      "recipient": "0xff43f5ef28ecb7c1f219751fc793deb40ef07a53",
+      "amount": "1815133242957935737",
+      "blockNumber": 36309036,
+      "transactionHash": "0xa2fabcb308f5bb5b54fb88da878f3bba21f2c7b2f4e0526321347f353e9c6ca4"
+    },
+    {
+      "recipient": "0x22cefc91e9b7c0f3890ebf9527ea89053490694e",
+      "amount": "777914246981972459",
+      "blockNumber": 36309036,
+      "transactionHash": "0xa2fabcb308f5bb5b54fb88da878f3bba21f2c7b2f4e0526321347f353e9c6ca4"
+    }
+  ],
+  "stats": {
+    "totalEvents": 4,
+    "totalAmount": "5191053634522716209",
+    "uniqueRecipients": [
+      "0xff43f5ef28ecb7c1f219751fc793deb40ef07a53",
+      "0x22cefc91e9b7c0f3890ebf9527ea89053490694e"
+    ]
+  }
+}

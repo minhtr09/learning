@@ -1,0 +1,6 @@
+@fdk-0.3.0-beta=dependencies/@fdk-0.3.0-beta
+@prb-test-0.6.4=dependencies/@prb-test-0.6.4
+@uniswap-v2-core-1.0.1=dependencies/@uniswap-v2-core-1.0.1
+@uniswap-v2-periphery-1.1.0-beta.0=dependencies/@uniswap-v2-periphery-1.1.0-beta.0
+@openzeppelin-contracts-upgradeable-5.0.2=dependencies/@openzeppelin-contracts-upgradeable-5.0.2
+@openzeppelin-contracts-5.0.2=dependencies/@openzeppelin-contracts-5.0.2
